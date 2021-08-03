@@ -1,1 +1,1 @@
-# react-core-concepts
+# react-core-concept
